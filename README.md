@@ -11,7 +11,7 @@
 ## 🌐 My Profiles
 Below are some of the platforms where you can find me and my work.
 <p align="center">
-    <a href=""><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></img></a>
+    <a href="https://x.com/itzfelixv"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></img></a>
     <a href="https://www.hackerrank.com/profile/itzfelixv"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
     <a href="https://leetcode.com/u/itzfelixv/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
     <a href="https://www.hackerearth.com/@itzfelixv/"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
